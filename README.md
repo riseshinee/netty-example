@@ -4,7 +4,7 @@
 ```bash
 - client
 - netty
-```bash
+```
 각각 하나의 서버이며 각 서버가 netty를 이용한 소켓 통신 예제 소스
 
 ## Installation
